@@ -1,309 +1,885 @@
 {
-    "#38c8d8,#000000": {
-        "name" : "Exotic",
-        "rarity" : "99999"
-    },
-    "#4bff9c,#0a1d13": {
-        "name" : "Exotic: Apex",
-        "rarity" : "49999500"
-    },
-    "#ae4bb5,#270d29": {
-        "name" : "Exotic: Void",
-        "rarity" : "299999999"
-    },
-    "#2d2961,#000000": {
-        "name" : "Diaboli: Void",
-        "rarity" : "100400"
-    },
-    "#55991a,#000000": {
-        "name" : "Undead: Devil",
-        "rarity" : "120000"
-    },
-    "#999999,#000000": {
-        "name" : "Comet",
-        "rarity" : "120000"
-    },
-    "#096837,#000000": {
-        "name" : "Jade",
-        "rarity" : "125000"
-    },
-    "#0c0d12,#000000": {
-        "name" : "Spectre",
-        "rarity" : "140000"
-    },
-    "#ffe5a3,#000000" : {
-        "name" : "Jazz",
-        "rarity" : "160000"
-    },
-    "#70acb9,#000000": {
-        "name": "Aether",
-        "rarity" : "180000"
-    },
-    "#2556ff,#000000": {
-        "name" : "Bounded",
-        "rarity" : "200000"
-    },
-    "#97a2ff,#000000": {
-        "name" : "Celestial",
-        "rarity" : "350000"
-    },
-    "#9b81be,#0e0e0e": {
-        "name" : "Celestial: Divine",
-        "rarity" : "7000000"
-    },
-    "#281692,#000000": {
-        "name" : "Kyawthuite",
-        "rarity" : "850000"
-    },
-    "#6e96ff,#0e0e0e": {
-        "name" : "Arcane",
-        "rarity" : "1000000"
-    },
-    "#6781ff,#04050e": {
-        "name" : "Arcane: Legacy",
-        "rarity" : "15000000"
-    },
-    "#5b35ff,#07020d": {
-        "name" : "Arcane: Dark",
-        "rarity" : "30000000"
-    },"#d37e93,#0e0e0e": {
-        "name" : "Magnetic: Reverse Polarity",
-        "rarity" : "1024000"
-    },
-    "#313131,#0e0e0e": {
-        "name" : "Undefined",
-        "rarity" : "1111000"
-    },
-    "#fd1011,#0e0e0e": {
-        "name" : "Rage: Brawler",
-        "rarity" : "1280000"
-    },
-    "#7841ca,#0e0e0e": {
-        "name" : "Astral",
-        "rarity" : "1336000"
-    },
-    "#5163ff,#0e0e0e": {
-        "name" : "Gravitational",
-        "rarity" : "2000000"
-    },
-    "#4d40ff,#0e0e0e": {
-        "name" : "Bounded: Unbound",
-        "rarity" : "2000000"
-    },
-    "#4b8bff,#0e0e0e": {
-        "name" : "Virtual",
-        "rarity" : "2500000"
-    },
-    "#ff5582,#0e0e0e": {
-        "name" : "Savior",
-        "rarity" : "3200000"
-    },
-    "#0e648b,#0e0e0e": {
-        "name" : "Poseidon",
-        "rarity" : "4000000"
-    },
-    "#a35725,#0e0e0e": {
-        "name" : "Aquatic: Flame",
-        "rarity" : "4000000"
-    },
-    "#fffad3,#0e0e0e": {
-        "name" : "Zeus",
-        "rarity" : "4500000"
-    },
-    "#b37e7a,#0e0e0e": {
-        "name" : "Lunar: Full Moon",
-        "rarity" : "5000000"
-    },
-    "#f2cf17,#0e0e0e" : {
-        "name" : "Solar: Solstice",
-        "rarity" : "5000000"
-    },
-    "#5142ff,#0e0e0e": {
-        "name" : "Galaxy",
-        "rarity" : "5000000"
-    },
-    "#513fff,#0e0e0e": {
-        "name" : "Twilight",
-        "rarity" : "6000000"
-    },
-    "#5b4d9f,#040306": {
-        "name" : "Twilight: Iridescent Memory",
-        "rarity" : "60000000"
-    },
-    "#5c5fff,#0e0e0e": {
-        "name" : "Origin",
-        "rarity" : "6500000"
-    },
-    "#772500,#0e0e0e": {
-        "name" : "Hades",
-        "rarity" : "6666666"
-    },
-    "#8c61ff,#0e0e0e": {
-        "name" : "Hyper-volt",
-        "rarity" : "7500000"
-    },
-    "#ffffff,#0e0e0e": {
-        "name" : "Nihility/Mega Ticket",
-        "rarity" : "9000000"
-    },
-    "#ff8080,#0e0404": {
-        "name" : "Starscourge",
-        "rarity" : "10000000"
-    },
-    "#99c8ff,#******": {
-        "name" : "Starscourge: Radiant",
-        "rarity" : "100000000"
-    },
-    "#749eff,#06090e": {
-        "name" : "Sailor",
-        "rarity" : "12000000"
-    },
-    "#3898b6,#0b1510": {
-        "name" : "Sailor: Flying Dutchman",
-        "rarity" : "800000000"
-    },
-    "#b1b1b1,#0c0c0c": {
-        "name" : "Stormal: Hurricane",
-        "rarity" : "13500000"
-    },
-    "#fbc28b,#0e0905": {
-        "name" : "Sirius",
-        "rarity" : "14000000"
-    },
-    "#3fffec,#******": {
-        "name" : "Chromatic",
-        "rarity" : "20000000"
-    },
-    "#ffffff,#000002": {
-        "name" : "Chromatic: Genesis",
-        "rarity" : "99999999"
-    },
-    "#d69044,#070502": {
-        "name" : "Aviator",
-        "rarity" : "24000000"
-    },
-    "#cfbeff,#0a090e": {
-        "name" : "Ethereal",
-        "rarity" : "35000000"
-    },
-    "#9dbfff,#080a0e": {
-        "name" : "Overseer",
-        "rarity" : "45000000"
-    },
-    "#5bffb0,#050e09": {
-        "name" : "Matrix",
-        "rarity" : "50000000"
-    },
-    "#d31e21,#******": {
-        "name" : "Matrix: Overdrive",
-        "rarity" : "503000000"
-    },
-    "#3c66ff,#******": {
-        "name" : "Overture",
-        "rarity" : "150000000"
-    },
-    "#59ff96,#******": {
-        "name": "Overture: History",
-        "rarity" : "300000000"
-    },
-    "#abbeff,#030305": {
-        "name" : "Symphony",
-        "rarity" : "175000000"
-    },
-    "#8041ff,#05010e": {
-        "name" : "Impeached",
-        "rarity" : "200000000"
-    },
-    "#e7c39d,#******": {
-        "name" : "Archangel",
-        "rarity" : "250000000"
-    },
-    "#d90005,#0e0000": {
-        "name" : "Bloodlust",
-        "rarity" : "300000000"
-    },
-    "#ffbe85,#0c0703": {
-        "name" : "Atlas",
-        "rarity" : "360000000"
-    },
-    "#0055ff,#******": {
-        "name" : "Abyssal Hunter",
-        "rarity" : "400000000"
-    },
-    "#ffbd43,#******": {
-        "name" : "Gargantua",
-        "rarity" : "430000000"
-    },
-    "#ff6250,#******": {
-        "name" : "Apostolos",
-        "rarity" : "444000000"
-    },
-    "#41ff83,#070e08": {
-        "name" : "Ruins",
-        "rarity" : "500000000"
-    },
-    "#94bcb6,#******": {
-        "name" : "Sovereign",
-        "rarity" : "7500000000"
-    },
-    "#5d8aff,#******": {
-        "name" : "Aegis",
-        "rarity" : "825000000"
-    },
-    "#c2deff,#040506": {
-        "name" : "Luminosity",
-        "rarity" : "12000000000"
-    },
-    "#37572f,#******": {
-        "name" : "Glitch",
-        "rarity" : "12000000"
-    },
-    "#bababa,#000000": {
-        "name" : "Oppression",
-        "rarity" : "220000000"
-    },
-    "#5343d4,#120c2a": {
-        "name" : "Memory, The Fallen",
-        "rarity" : "100 from Oblivion Potion"
-    },
-    "#510e9e,#080410": {
-        "name" : "Oblivion: The truth seeker",
-        "rarity" : "2000 from Oblivion Potion"
-    },
-    "#3b9aff,#0c1a2a": {
-        "name" : "Shard Surfer",
-        "rarity" : "225000000"
-    },
-    "#1b1a47,#020104": {
-        "name" : "Innovator",
-        "rarity" : "30000000"
-    },
-    "#ffcf6a,#000000": {
-        "name" : "Pump",
-        "rarity" : "200000"
-    },
-    "#7f9cff,#050509": {
-        "name" : "Wonderland",
-        "rarity" : "12000000"
-    },
-    "#62a0fe,#05070b": {
-        "name" : "Santa Frost",
-        "rarity" : "45000000"
-    },
-    "#6abffe,#020608": {
-        "name" : "Winter Fantasy",
-        "rarity" : "72000000"
-    },
-    "#603b28,#040202": {
-        "name" : "Express",
-        "rarity" : "90000000"
-    },
-    "#050808,#010404": {
-        "name" : "Abomitable",
-        "rarity" : "120000000"
-    },
-    "#9df2fc,#******": {
-        "name" : "Atlas: Yuletide",
-        "rarity" : "510000000"
+    "★" : {
+        "emb_colour" : "#ec88ff",
+        "rarity" : "100",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/d7/Dreamscape_star1_collection.png/revision/latest",
+        "native_biome" : "Dreamspace"
+    },
+    "★★" : {
+        "emb_colour" : "#ec88ff",
+        "rarity" : "1000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/4/4f/Dreamscape_star2.png/revision/latest",
+        "native_biome" : "Dreamspace"
+    },
+    "fault" : {
+        "emb_colour" : "#97e18f",
+        "rarity" : "3000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/e/e1/Fault_Aura_Collection_GIF.gif/revision/latest",
+        "native_biome" : "Glitched"
+    },
+    "★★★" : {
+        "emb_colour" : "#ec88ff",
+        "rarity" : "10000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/a/a3/Screenshot_2025-02-09_145439.png/revision/latest",
+        "native_biome" : "Dreamspace"
+    },
+    "undead" : {
+        "emb_colour" : "#26a90a",
+        "rarity" : "12000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/e/eb/UndeadAura.gif/revision/latest",
+        "native_biome" : "Hell"
+    },
+    "corrosive" : {
+        "emb_colour" : "#8360b2",
+        "rarity" : "12000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/94/Corrosive.gif/revision/latest",
+        "native_biome" : "Corruption"
+    },
+    "rage: heated" : {
+        "emb_colour" : "#ff7440",
+        "rarity" : "12800",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/14/RageHeatedAura.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "ink: leak" : {
+        "emb_colour" : "#000000",
+        "rarity" : "14000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/da/LeakGif.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "powered" : {
+        "emb_colour" : "#ffffff",
+        "rarity" : "16384",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/9a/Powered.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "watt" : {
+        "emb_colour" : "#3a5098",
+        "rarity" : "32768",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/c/ca/WattCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "aquatic" : {
+        "emb_colour" : "#1881f5",
+        "rarity" : "40000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/a/a9/AquaticAura.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "solar" : {
+        "emb_colour" : "#efc45a",
+        "rarity" : "50000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/4/41/SolarAuraNight.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "lunar" : {
+        "emb_colour" : "#a587fd",
+        "rarity" : "50000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/d3/Lunar_Collection_E7.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "starlight" : {
+        "emb_colour" : "#91aee2",
+        "rarity" : "50000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/2/22/StarlightCollection.gif/revision/latest",
+        "native_biome" : "Starfall"
+    },
+    "starrider" : {
+        "emb_colour" : "#d5ce64",
+        "rarity" : "50000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/1a/StarRiderCollection.gif/revision/latest",
+        "native_biome" : "Starfall"
+    },
+    ":flushed:: lobotomy" : {
+        "emb_colour" : "#05a715",
+        "rarity" : "69000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/f/f6/FlushedLobotomyAura.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "permafrost" : {
+        "emb_colour" : "#9bdcba",
+        "rarity" : "73500",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/b/bd/PermaFrostCollection.gif/revision/latest",
+        "native_biome" : "Snowy"
+    },
+    "hazard: rays" : {
+        "emb_colour" : "#6766fe",
+        "rarity" : "70000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/c/c1/Hazard_Rays.gif/revision/latest",
+        "native_biome" : "Corruption"
+    },
+    "nautilus" : {
+        "emb_colour" : "#5367f9",
+        "rarity" : "70000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/e/e2/NautilusAuraNight.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "stormal" : {
+        "emb_colour" : "#a9a9a9",
+        "rarity" : "90000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/6/65/Stormal_Collection_E7.gif/revision/latest",
+        "native_biome" : "Windy"
+    },
+    "exotic": {
+        "emb_colour": "#38c8d8",
+        "rarity": "99999",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/7/71/ExoticAura150x150.gif/revision/latest",
+        "native_biome": ""
+    },
+    "exotic: apex": {
+        "emb_colour": "#4bff9c",
+        "rarity": "49999500",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/0/09/Exotic_Apex_Collection_E7.gif/revision/latest",
+        "native_biome": ""
+    },
+    "exotic: void": {
+        "emb_colour": "#ae4bb5",
+        "rarity": "299999999",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/c/c7/ExoticVoidCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "diaboli: void": {
+        "emb_colour": "#2d2961",
+        "rarity": "100400",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/ee/Diabolivoidcollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "undead: devil": {
+        "emb_colour": "#55991a",
+        "rarity": "666666",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/7/73/UndeadDevilCollectionEon1.gif/revision/latest",
+        "native_biome": "Hell"
+    },
+    "comet": {
+        "emb_colour": "#999999",
+        "rarity": "120000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/1/16/Comet_collect.gif/revision/latest",
+        "native_biome": "Starfall"
+    },
+    "jade": {
+        "emb_colour": "#096837",
+        "rarity": "125000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/0/06/JadeInCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "spectre": {
+        "emb_colour": "#0c0d12",
+        "rarity": "140000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/ed/SpectreCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "jazz": {
+        "emb_colour": "#ffe5a3",
+        "rarity": "160000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/2/2d/JazzCollectionBetter.gif/revision/latest",
+        "native_biome": ""
+    },
+    "aether": {
+        "emb_colour": "#70acb9",
+        "rarity": "180000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/9/91/AetherCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "bounded": {
+        "emb_colour": "#2556ff",
+        "rarity": "200000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/5/52/BoundedAuraNight.gif/revision/latest",
+        "native_biome": ""
+    },
+    "celestial": {
+        "emb_colour": "#97a2ff",
+        "rarity": "350000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/6/64/Celestial_Rework_Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "celestial: divine": {
+        "emb_colour": "#9b81be",
+        "rarity": "7000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/c/c4/CelestialDivineCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "warlock": {
+        "emb_colour": "#d73a81",
+        "rarity": "666000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/9/9c/WarlockCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "kyawthuite": {
+        "emb_colour": "#281692",
+        "rarity": "850000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/6/67/Kyawthuite_Collection2.gif/revision/latest",
+        "native_biome": ""
+    },
+    "kyawthuite: remembrance": {
+        "emb_colour": "#7764b3",
+        "rarity": "450000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/d/d4/KyawthuiteRememberance.webp/revision/latest",
+        "native_biome": ""
+    },
+    "arcane": {
+        "emb_colour": "#6e96ff",
+        "rarity": "1000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/d/d8/ArcaneCollectionN3w.gif/revision/latest",
+        "native_biome": ""
+    },
+    "arcane: legacy": {
+        "emb_colour": "#6781ff",
+        "rarity": "15000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/7/72/Arcane_Legacy_Collection_E7.gif/revision/latest",
+        "native_biome": ""
+    },
+    "arcane: dark": {
+        "emb_colour": "#5b35ff",
+        "rarity": "30000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/1/10/Arcane-dark-collection-era9.gif/revision/latest",
+        "native_biome": ""
+    },
+    "magnetic: reverse polarity": {
+        "emb_colour": "#d37e93",
+        "rarity": "1024000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/8/8f/Magnetic_Reverse_Polarity_Rework_Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "undefined": {
+        "emb_colour": "#313131",
+        "rarity": "1111000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/b/b0/Undefined_Collection1.gif/revision/latest",
+        "native_biome": "Null"
+    },
+    "rage: brawler": {
+        "emb_colour": "#fd1011",
+        "rarity": "1280000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/0/0b/BrawlerCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "astral": {
+        "emb_colour": "#7841ca",
+        "rarity": "1336000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/5/57/Astral_Era9.gif/revision/latest",
+        "native_biome": "Starfall"
+    },
+    "cosmos" : {
+        "emb_colour" : "#ec88ff",
+        "rarity" : "1520000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/4/4c/CosmosCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "gravitational": {
+        "emb_colour": "#5163ff",
+        "rarity": "2000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/f/fd/Grav_CollectionE9.gif/revision/latest",
+        "native_biome": ""
+    },
+    "bounded: unbound": {
+        "emb_colour": "#4d40ff",
+        "rarity": "2000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/6/65/Unbound_E7_Collection2.gif/revision/latest",
+        "native_biome": ""
+    },
+    "virtual": {
+        "emb_colour": "#4b8bff",
+        "rarity": "2500000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/8/88/VirtualReworkCollection.gif/revision/latest",
+        "native_biome": "Cyberspace"
+    },
+    "virtual: fatal error": {
+        "emb_colour": "#5b7cff",
+        "rarity": "40413000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/e3/VirtualFatalErrorColl.gif/revision/latest",
+        "native_biome": "Cyberspace"
+    },
+    "savior": {
+        "emb_colour": "#ff5582",
+        "rarity": "3200000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/a/a4/Savior_Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "poseidon": {
+        "emb_colour": "#0e648b",
+        "rarity": "4000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/d/db/PosEra7.gif/revision/latest",
+        "native_biome": "Rainy"
+    },
+    "aquatic: flame": {
+        "emb_colour": "#a35725",
+        "rarity": "4000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/7/7f/Aqua_flame_new_gif.gif/revision/latest",
+        "native_biome": ""
+    },
+    "zeus": {
+        "emb_colour": "#fffad3",
+        "rarity": "4500000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/4/41/Zeus_GIF.gif/revision/latest",
+        "native_biome": ""
+    },
+    "lunar: full moon": {
+        "emb_colour": "#b37e7a",
+        "rarity": "5000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/4/40/LunarFMReworkCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "solar: solstice": {
+        "emb_colour": "#f2cf17",
+        "rarity": "5000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/1/1c/SolarSolsticeG.gif/revision/latest",
+        "native_biome": ""
+    },
+    "galaxy": {
+        "emb_colour": "#5142ff",
+        "rarity": "5000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/f/f8/Galaxy_Aura.gif/revision/latest",
+        "native_biome": "Starfall"
+    },
+    "twilight": {
+        "emb_colour": "#513fff",
+        "rarity": "6000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/b/b4/TwilightInCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "twilight: iridescent memory": {
+        "emb_colour": "#5b4d9f",
+        "rarity": "60000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/f/fc/Twilight_-_Iridescent_Memory_Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "origin": {
+        "emb_colour": "#5c5fff",
+        "rarity": "6500000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/6/6c/OriginCollectionEon1.gif/revision/latest",
+        "native_biome": ""
+    },
+    "hades": {
+        "emb_colour": "#772500",
+        "rarity": "6666666",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/8/85/HadesCollection.gif/revision/latest",
+        "native_biome": "Hell"
+    },
+    "hyper-volt": {
+        "emb_colour": "#8c61ff",
+        "rarity": "7500000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/d/d4/HpVl.gif/revision/latest",
+        "native_biome": ""
+    },
+    "velocity" : {
+        "emb_colour" : "#de4a00",
+        "rarity" : "7630000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/5/54/Velocitygif.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "nihility": {
+        "emb_colour": "#ffffff",
+        "rarity": "9000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/c/ca/Nihility_collection.gif/revision/latest",
+        "native_biome": "Null"
+    },
+    "helios" : {
+        "emb_colour" : "#e39250",
+        "rarity" : "9000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/e/ed/HeliosCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "starscourge": {
+        "emb_colour": "#ff8080",
+        "rarity": "10000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/9/9d/StarscourgeRevampCollection.gif/revision/latest",
+        "native_biome": "Starfall"
+    },
+    "starscourge: radiant": {
+        "emb_colour": "#99c8ff",
+        "rarity": "100000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/1/16/Starscourge_Radiant_Gif2.gif/revision/latest",
+        "native_biome": "Starfall"
+    },
+    "sailor": {
+        "emb_colour": "#749eff",
+        "rarity": "12000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/e2/SailorCollectionEra7.gif/revision/latest",
+        "native_biome": "Rainy"
+    },
+    "sailor: flying dutchman": {
+        "emb_colour": "#3898b6",
+        "rarity": "80000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/5/53/DutchmanCollectionEon1.gif/revision/latest",
+        "native_biome": "Rainy"
+    },
+    "stormal: hurricane": {
+        "emb_colour": "#b1b1b1",
+        "rarity": "13500000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/d/d9/Hurricane_Collection_Eon_1_reupload.gif/revision/latest",
+        "native_biome": "Windy"
+    },
+    "sirius": {
+        "emb_colour": "#fbc28b",
+        "rarity": "14000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/c/c2/Siriusincollection.gif/revision/latest",
+        "native_biome": "Starfall"
+    },
+    "chromatic": {
+        "emb_colour": "#3fffec",
+        "rarity": "20000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/d/d6/Chromatic_GIF.gif/revision/latest",
+        "native_biome": ""
+    },
+    "chromatic: genesis": {
+        "emb_colour": "#ffffff",
+        "rarity": "99999999",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/7/72/Genesis-Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "aviator": {
+        "emb_colour": "#d69044",
+        "rarity": "24000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/4/43/Aviator_Collection.gif/revision/latest",
+        "native_biome": "Windy"
+    },
+    "ethereal": {
+        "emb_colour": "#cfbeff",
+        "rarity": "35000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/b/bc/Etherealpretrans.gif/revision/latest",
+        "native_biome": ""
+    },
+    "overseer": {
+        "emb_colour": "#9dbfff",
+        "rarity": "45000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/0/0b/Overseer-collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "runic": {
+        "emb_colour": "#169825",
+        "rarity": "50000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/ed/RunicColl.gif/revision/latest",
+        "native_biome": ""
+    },
+    "matrix": {
+        "emb_colour": "#5bffb0",
+        "rarity": "50000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/9/97/MatrixCollectionEon1.gif/revision/latest",
+        "native_biome": "Cyberspace"
+    },
+    "matrix: overdrive": {
+        "emb_colour": "#d31e21",
+        "rarity": "503000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/e4/MatrixOverdriveCollection.gif/revision/latest",
+        "native_biome": "Cyberspace"
+    },
+    "matrix: reality": {
+        "emb_colour": "#444444",
+        "rarity": "601020102",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/a/a0/Matrix_but_real.gif/revision/latest",
+        "native_biome": "Cyberspace"
+    },
+    "sentinel": {
+        "emb_colour": "#768ff2",
+        "rarity": "60000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/9/96/SentinelCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "carriage": {
+        "emb_colour": "#d2b482",
+        "rarity": "80000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/7/7d/Collection_Carriage.gif/revision/latest",
+        "native_biome": ""
+    },
+    "overture": {
+        "emb_colour": "#3c66ff",
+        "rarity": "150000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/e8/Overture_Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "overture: history": {
+        "emb_colour": "#59ff96",
+        "rarity": "300000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/6/61/Overture_History_Eon1_Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "symphony": {
+        "emb_colour": "#abbeff",
+        "rarity": "175000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/f/f5/Symphony_Collection_with_crown.gif/revision/latest",
+        "native_biome": ""
+    },
+    "impeached": {
+        "emb_colour": "#8041ff",
+        "rarity": "200000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/2/2f/Impeached_Collectiongifv2.gif/revision/latest",
+        "native_biome": "Corruption"
+    },
+    "archangel": {
+        "emb_colour": "#e7c39d",
+        "rarity": "250000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/4/4f/ArchangelCollection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "bloodlust": {
+        "emb_colour": "#d90005",
+        "rarity": "300000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/f/f9/BloodlustInCollection.gif/revision/latest",
+        "native_biome": "Hell"
+    },
+    "atlas": {
+        "emb_colour": "#ffbe85",
+        "rarity": "360000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/0/0b/Atlas_collection.gif/revision/latest",
+        "native_biome": "Sand storm"
+    },
+    "abyssalhunter": {
+        "emb_colour": "#0055ff",
+        "rarity": "400000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/2/25/Abyssal_Hunter_Max_Graphics.gif/revision/latest",
+        "native_biome": "Rainy"
+    },
+    "gargantua": {
+        "emb_colour": "#ffbd43",
+        "rarity": "430000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/5/5a/GargantuaStable.gif/revision/latest",
+        "native_biome": "Starfall"
+    },
+    "apostolos": {
+        "emb_colour": "#ff6250",
+        "rarity": "444000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/1/17/In-collection_Apostolos.gif/revision/latest",
+        "native_biome": ""
+    },
+    "ruins": {
+        "emb_colour": "#41ff83",
+        "rarity": "500000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/7/74/Ruins.collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "sovereign": {
+        "emb_colour": "#94bcb6",
+        "rarity": "750000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/0/05/Sovereign_Collection_E8.gif/revision/latest",
+        "native_biome": ""
+    },
+    "ruins: withered" : {
+        "emb_colour" : "#41ff83",
+        "rarity" : "800000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/3/33/WitheredCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "aegis": {
+        "emb_colour": "#3151ff",
+        "rarity": "825000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/a/ab/AegisCollection.gif/revision/latest",
+        "native_biome": "Cyberspace"
+    },
+    "pixelation" : {
+        "emb_colour" : "#9d3cff",
+        "rarity" : "1073741824",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/6/61/Pixelation_In-Game.gif/revision/latest",
+        "native_biome" : "Cyberspace"
+    },
+    "luminosity": {
+        "emb_colour": "#c2deff",
+        "rarity": "1200000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/ea/Luminosity_Collection.gif/revision/latest",
+        "native_biome": ""
+    },
+    "glitch": {
+        "emb_colour": "#37572f",
+        "rarity": "12000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/a/a1/Era8glitchcollection.gif/revision/latest",
+        "native_biome": "Glitched"
+    },
+    "oppression": {
+        "emb_colour": "#bababa",
+        "rarity": "220000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/c/c1/OppressionCollectionEon1.gif/revision/latest",
+        "native_biome": "Glitched"
+    },
+    "memory": {
+        "emb_colour": "#5343d4",
+        "rarity": "60000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/a/ad/MemoryCollectionEon1.gif/revision/latest",
+        "native_biome": ""
+    },
+    "oblivion": {
+        "emb_colour": "#510e9e",
+        "rarity": "1200000000",
+        "img_url": " ://static.wikia.nocookie.net/sol-rng/images/c/c5/Oblivion_colletion_eon1-1.gif/revision/latest",
+        "native_biome": ""
+    },
+    "wonderland": {
+        "emb_colour": "#7f9cff",
+        "rarity": "12000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/3/39/WonderlandCollection.gif/revision/latest",
+        "native_biome": "Snowy"
+    },
+    "santa frost": {
+        "emb_colour": "#62a0fe",
+        "rarity": "45000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/3/32/FrostCollection.gif/revision/latest",
+        "native_biome": "Snowy"
+    },
+    "winter fantasy": {
+        "emb_colour": "#6abffe",
+        "rarity": "72000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/8/8e/Winter_Fantasy%28Collection%29.gif/revision/latest",
+        "native_biome": "Snowy"
+    },
+    "express": {
+        "emb_colour": "#603b28",
+        "rarity": "90000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/1/10/ExpressCollectionGIf.gif/revision/latest",
+        "native_biome": "Snowy"
+    },
+    "abomitable": {
+        "emb_colour": "#050808",
+        "rarity": "120000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/b/bb/AbomitableIngame.gif/revision/latest",
+        "native_biome": "Snowy"
+    },
+    "atlas: yuletide": {
+        "emb_colour": "#9df2fc",
+        "rarity": "510000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/e/e4/Roblox2025-02-0917-24-01-ezgif.com-optimize.gif/revision/latest",
+        "native_biome": "Snowy"
+    },
+    ":flushed:: troll" : {
+        "emb_colour" : "#ffffff",
+        "rarity" : "1000000",
+        "img_url": "https://static.wikia.nocookie.net/sol-rng/images/f/fb/TrollCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "origin: onion" : {
+        "emb_colour" : "#d067fe",
+        "rarity" : "8000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/c/c3/OnionCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "glock: shieldofthesky" : {
+        "emb_colour" : "#000000",
+        "rarity" : "170000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/4/40/Glockoftheskycollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "anubis" : {
+        "emb_colour" : "#170706",
+        "rarity" : "7200000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/a/a7/AnubisC.gif/revision/latest",
+        "native_biome" : "Sand storm"
+    },
+    "blizzard" : {
+        "emb_colour" : "#3f6c86",
+        "rarity" : "27315000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/c/cd/Blizzard_col_gif.gif/revision/latest",
+        "native_biome" : "Snowy"
+    },
+    "jazz: orchestra" : {
+        "emb_colour" : "#ffb24e",
+        "rarity" : "336870912",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/3/35/Orchestra_jazz.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "astral: legendarium" : {
+        "emb_colour" : "#fea72a",
+        "rarity" : "267200000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/1f/Zodiacollection.gif/revision/latest",
+        "native_biome" : "Starfall"
+    },
+    "stargazer" : {
+        "emb_colour" : "#b838ac",
+        "rarity" : "9200000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/97/Stargazerincollection.gif/revision/latest",
+        "native_biome" : "Starfall"
+    },
+    "harnessed": {
+        "emb_colour" : "#58b1dc",
+        "rarity" : "8500000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/94/Harnessed_collec.gif/revision/latest/",
+        "native_biome" : ""
+    },
+    "raven" : {
+        "emb_colour" : "#424244",
+        "rarity" : "500000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/5/5a/RavenCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "anima" : {
+        "emb_colour" : "#fffdfe",
+        "rarity" : "5730000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/f/f4/AnimaCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "juxtaposition" : {
+        "emb_colour" : "#515654",
+        "rarity" : "40440400",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/1e/JuxtapColl.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "unknown" : {
+        "emb_colour" : "#1a1f29",
+        "rarity" : "444444444",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/b/b6/Unknownincollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "elude" : {
+        "emb_colour" : "#585a5c",
+        "rarity" : "555555555",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/11/EludeCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "prologue" : {
+        "emb_colour" : "#0f1112",
+        "rarity" : "666616111",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/d6/PrologueCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "dreamscape" : {
+        "emb_colour" : "#dadcde",
+        "rarity" : "850000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/1a/DreamscapeInCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "manta" : {
+        "emb_colour" : "#0e2f8d",
+        "rarity" : "300000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/3/31/Manta_In-Collection.gif/revision/latest",
+        "native_biome" : "Blazing sun"
+    },
+    "aegis: watergun" : {
+        "emb_colour" : "#39c7fc",
+        "rarity" : "825000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/a/ac/Aegis_Watergun_in_collection.gif/revision/latest",
+        "native_biome" : "Blazing sun"
+    },
+    "equinox" : {
+        "emb_colour" : "#fafafa",
+        "rarity" : "2500000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/a/a7/EquinoxNewCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "copper" : {
+        "emb_colour" : "#ff7c00",
+        "rarity" : "29000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/2/2d/CopperColl.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "divinus: angel" : {
+        "emb_colour" : "#f2e2a7",
+        "rarity" : "120000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/d8/DivAngelColl.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "parasite" : {
+        "emb_colour" : "#180d37",
+        "rarity" : "3000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/8/85/ParasiteColl.gif/revision/latest",
+        "native_biome" : "Corruption"
+    },
+    "cosmos: alice" : {
+        "emb_colour" : "#6397de",
+        "rarity" : "3500000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/2/2e/Cosmosalice.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "lullaby" : {
+        "emb_colour" : "#496ecf",
+        "rarity" : "17000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/1b/LullabyInGame.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "lotusfall" : {
+        "emb_colour" : "#5771e5",
+        "rarity" : "320000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/92/LotusfallCollections6mb.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "dreammetric" : {
+        "emb_colour" : "#fb71f7",
+        "rarity" : "520000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/2/2b/Dreammetric_Whitelist.gif/revision/latest",
+        "native_biome" : "Dreamspace"
+    },
+    "maelstrom" : {
+        "emb_colour" : "#2c8779",
+        "rarity" : "309999999",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/10/MaelstromCollection.gif/revision/latest",
+        "native_biome" : "Windy"
+    },
+    "megaphone" : {
+        "emb_colour" : "#6bd2bb",
+        "rarity" : "5000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/c/c7/MegaphoneCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "flow" : {
+        "emb_colour" : "#8dbfce",
+        "rarity" : "87000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/5/59/FlowCollection.gif/revision/latest",
+        "native_biome" : "Windy"
+    },
+    "nautilus: lost" : {
+        "emb_colour" : "#5367f9",
+        "rarity" : "7700000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/b/bc/Nautilost.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "terror" : {
+        "emb_colour" : "#8e0b43",
+        "rarity" : "400000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/90/TerrorColl.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "prowler" : {
+        "emb_colour" : "#1b4cba",
+        "rarity" : "540000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/c/c9/Prowlercollet.gif/revision/latest",
+        "native_biome" : "Another Realm"
+    },
+    "shiftlock" : {
+        "emb_colour" : "#8c8887",
+        "rarity" : "3325000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/5/5c/ShiftlockCollection.gif/revision/latest",
+        "native_biome" : "Null"
+    },
+    "harnessed: elements" : {
+        "emb_colour" : "#e8c059",
+        "rarity" : "85000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/9c/Harnessed-Elements-Collection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "virtual: worldwide" : {
+        "emb_colour" : "#c2c2c2",
+        "rarity" : "87500000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/5/5e/WorldWide_Collection.gif/revision/latest",
+        "native_biome" : "Cyberspace"
+    },
+    "twilight: withering grace" : {
+        "emb_colour" : "#f9fdff",
+        "rarity" : "180000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/5/50/WitheringGraceCollection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "hyper-volt: ever-storm" : {
+        "emb_colour" : "#a695e9",
+        "rarity" : "225000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/2/23/Hyper-Volt_-_Ever-Storm_-_Collection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "flora: evergreen" : {
+        "emb_colour" : "#499a2d",
+        "rarity" : "370073730",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/b/b3/Flora-_Evergreen_in_collection.png/revision/latest",
+        "native_biome" : ""
+    },
+    "chillsear" : {
+        "emb_colour" : "#668fc8",
+        "rarity" : "375000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/5/53/ChillsearColl.gif/revision/latest",
+        "native_biome" : "Snowy"
+    },
+    "sophyra" : {
+        "emb_colour" : "#6e54c1",
+        "rarity" : "570000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/d6/Sophyra_Collection.gif/revision/latest",
+        "native_biome" : ""
+    },
+    "illusionary" : {
+        "emb_colour" : "",
+        "rarity" : "10000000",
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/7/7f/Illusionary_collection.gif/revision/latest",
+        "native_biome" : "Cyberspace",
+        "ignore_biome_multiplier" : true
     }
 }
